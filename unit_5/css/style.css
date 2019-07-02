@@ -1,0 +1,102 @@
+ * {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-color: #FFED74;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+div, section {
+	background-color: #FFE2B8
+}
+
+body {
+	background-color: #B8B8B8;
+}
+
+ * {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #B8B8B8;
+}
+
+#firstList {
+	border: 6px solid black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+li {
+	display: inline;
+	border: 3px solid white;
+	padding: 5px;
+	margin: 100px;
+}
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+	margin: 15px;
+}
+
+h2 {
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#headAbout {
+	margin-left: 20px;
+}
+
+p {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 12px;
+	margin: 20px;
+}
+
+img {
+	 border: 6px solid black;
+	 margin: 20px; 
+	 padding: 2px;
+	 width: 1150px;
+	 height: 500px;
+}
+
+footer {
+	text-align: center;
+	background-color: #FF957E;
+}
+
+#aboutSection {
+	float: left;
+	width: 250px;
+	height: 250px;
+	border: 3px solid black;
+	margin-left: 20px;
+}
+
+#paragraphAbout {
+	font-family: 'Ubuntu', sans-serif;
+	line-height: 20px;
+	text-align: left;
+}
+
+#teamSection {
+	margin-left: 300px;
+    height: 250px;
+    width: 880px;
+    border: solid black;
+}
+
+#getStartedSection {
+	border: 3px solid black;
+	margin: 20px;
+}
